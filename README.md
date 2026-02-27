@@ -9,6 +9,8 @@
 
 ## Tech Lead Instructions
 
+**PRD**: https://docs.google.com/document/d/1JYsPiYTCAtkv7G6S1aTY_4CV_pcnEx8CMH4UzP30lds/edit?usp=sharing
+
 ### Overview
 
 This repository serves as a template for you to get started with your project.
